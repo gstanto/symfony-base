@@ -1,8 +1,8 @@
 {
-    "name": "symfony/skeleton",
+    "name": "gstanto/symfony-base",
     "type": "project",
     "license": "MIT",
-    "description": "A minimal Symfony project recommended to create bare bones applications",
+    "description": "A minimal Symfony project for Project Jumpstarting",
     "require": {
         "php": "^7.1.3",
         "ext-iconv": "*",
