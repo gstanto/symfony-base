@@ -23,5 +23,4 @@ class HomeController extends AbstractController
         $name = "Grouper";
         return $this->render('home/main.html.twig', ['name' => $name]);
     }
-
 }
